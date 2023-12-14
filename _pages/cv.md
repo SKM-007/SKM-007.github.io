@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: skm-007.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
