@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BTech in Electrical and Electronics, RGTU University, 2012
+* MTECH in Optical Fiber, National Insitute of Techonolgy, 2014
+* Ph.D in Engineering Physics, Indian Institute of Techonology, 2018 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2020: Postdoctoral Fellow 
+  * Weizmann Institute of Science, Israel 
+  * Clean room chip desiging for the qunatume molecualr measurement 
+  * Crygenic and UHV measurements
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2020-2022: Research Associate
+  * Argonne National Laboratry 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
