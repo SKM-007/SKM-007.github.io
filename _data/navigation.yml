@@ -12,7 +12,7 @@ main:
   #   url: /portfolio/
   
   - title: "About Me"
-    url: skm-007.github.io/cv/
+    url: /cv/
 
     
   - title: "Publications"
