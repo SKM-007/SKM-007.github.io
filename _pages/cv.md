@@ -67,7 +67,7 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
   
 **Talks**
 - - - -
-* Talk in **Material Research Society** on "Single Photon Quantum Emission by Controlling Spin" Boston, MA, USA, March-2023.
+* Talk in **Material Research Society** on "Single Photon Quantum Emission by Controlling Spin" Boston, MA, USA, Nov-2023.
 * Talk in **American Physical Society** on "Inducing Chirality in Single Photon Quantum Emitter Photoluminescence via the Chiral Induced Spin Selectivity Effect" Las Vegas, NV, USA, March-2023.
 
 
