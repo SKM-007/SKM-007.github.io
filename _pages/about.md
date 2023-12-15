@@ -18,17 +18,17 @@ redirect_from:
 
 
 **Achievements**
-  -[]Prestigious Director’s Fellowship awarded at LANL worth of 350k\$
-  -[]Professional Membership of “American Chemical Society”
-  -[]Prestigious Ramanujan Fellowship awarded worth of 200k\$
-  -[]Professional Membership of “American Physical Society”
-  -[]Qualified GATE with 99.6 percentile out of quarter million participant.
+  Markup : - [ ] Prestigious Director’s Fellowship awarded at LANL worth of 350k\$
+           - [ ] Professional Membership of “American Chemical Society”
+           - [ ] Prestigious Ramanujan Fellowship awarded worth of 200k\$
+           - [ ] Professional Membership of “American Physical Society”
+           - [ ] Qualified GATE with 99.6 percentile out of quarter million participant.
 
 **Project finished by following funding agency**
--[]US Department of Energy
--[]US Department of Defence
--[]Horizon -2020 EU Research and Innovation Program 
--[]US National Institute of Health
--[]John Templeton Foundation
+Markup : - [ ] US Department of Energy
+         - [ ] US Department of Defence
+         - [ ] Horizon -2020 EU Research and Innovation Program 
+         - [ ] US National Institute of Health
+         - [ ] John Templeton Foundation
 -[]Volkswagen Foundation
 
