@@ -5,7 +5,6 @@ permalink: /extra/
 author_profile: true
 ---
 
-{% include base_path %}
 
 <br/><img src='/Extra.png' class='center'>
 
