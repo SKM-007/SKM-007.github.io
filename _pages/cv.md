@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -67,6 +67,16 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
   
 **Talks**
 - - - -
+* Talk in **Material Research Society** on "Single Photon Quantum Emission by Controlling Spin" Boston, MA, USA, March-2023.
+* Talk in **American Physical Society** on "Inducing Chirality in Single Photon Quantum Emitter Photoluminescence via the Chiral Induced Spin Selectivity Effect" Las Vegas, NV, USA, March-2023.
+
+
+* Invited talk at	**Northwestern University** on "CISS Effect and its Applications" hosted by Prof. Teri Odom, Chicago, IL, USA, Dec-2021.
+
+
+* Invited talk at the	**University of Southern California** on "Spin and Charge Transfer in DNA" hosted by Prof. Moh-el-Naggar, Los Angeles, CA, USA, Jan-2019.
+
+* Invited talk at	**Volkswagen Foundation Meeting** on "Spin in Multiheme cytochromes" held in Weizmann Institute of Science, Israel, Nov-2019.
 
 
 
