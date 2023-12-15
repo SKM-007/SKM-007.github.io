@@ -4,6 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+Updated list on [Google Scholar](https://scholar.google.com/citations?user=hwZgCGYAAAAJ&hl=en).
 
 **Publications**
 ----
