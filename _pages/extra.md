@@ -16,7 +16,7 @@ Spin Polarized Electrons”_  [_**Phys. Chem. Chem. Phys., 2020, 22, 21570- 2158
 Atomic Induced Chiral Nickel”_ [_**Appl. Phys. Lett. 118, 224001 (2021)**_](https://aip.scitation.org/action/showLargeCover?doi=10.1063\%2Fapl.2021.118.issue-22)
 - **Suryakant Mishra**, S. Pirbadian, A. K. Mondal, R. Naaman, M. Y. El-Naggar
 _“Spin Selective Electron Transportation through MtrF and OmcA Protein”_
-[_**J. Am. Chem. Soc. 2019, 141, 49, 19198-19202**_](https://pubs.acs.org/pb-assets/images/_journalCovers/jacsat/jacsat_v141i049-2.jpg?0.5582000173043404)
+[_**J. Am. Chem. Soc. 2019, 141, 49, 19198-19202**_](https://pubs.acs.org/cms/10.1021/jacsat.2019.141.issue-49/asset/jacsat.2019.141.issue-49.xlargecover-2.jpg)
 
 **Articles in News**
 -----
