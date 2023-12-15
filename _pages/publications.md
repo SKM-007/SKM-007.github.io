@@ -28,11 +28,11 @@ Am. Chem. Soc., 2019, 141, 1, pp 123-126**_
 _“Exchange Interactions Drive Supramolecular Chiral Induction in Polyaniline” **Small
 Methods 2020, 4, 10, 2070038**_
 - G. Bullard, F. Tassinari; C. Ko; A. Mondal, R.Wang, **Suryakant Mishra**, R. Naaman,
-M. Therien, “Low-Resistance Molecular Wires Propagate Spin Polarized Currents” J.
-Am. Chem. Soc. 2019, 141, 37, 14707-14711
+M. Therien, _“Low-Resistance Molecular Wires Propagate Spin Polarized Currents”_ _**J.
+Am. Chem. Soc. 2019, 141, 37, 14707-14711**_
 - Q. Zhu, Y. Kapon, AM Fleming, **Suryakant Mishra**, Cynthia J Burrows, Y. Paltiel,
-Ron Naaman “The Effect of Oxidative Damage and Its Location on the Interaction of
-DNA with Oligopeptides.” Cell Reports Physical Science, 2022, 3 (12), 101157
+Ron Naaman _“The Effect of Oxidative Damage and Its Location on the Interaction of
+DNA with Oligopeptides.”_ _**Cell Reports Physical Science, 2022, 3 (12), 101157**_
 - Marco Bonechi, W. Giurlani, M. Innocenti, D. Pasini, **Suryakant Mishra**, R. Giova-
 nardi, Claudio Fontanesi _“On the Dynamics of the Carbon–Bromine Bond Dissociation
 in the 1-Bromo-2-Methylnaphthalene Radical Anion”_ _**Molecules 2022, 27(14), 4539**_
@@ -43,11 +43,11 @@ in-line microbial cell lysis in soft microfluidics”_ _**Lab on a Chip 2023, 23
 Induced Chiral Nickel”_ _**Appl. Phys. Lett. 118, 224001 (2021)**_
 - Y. Sang, **Suryakant Mishra**, F. Tassinari, K. S. Kumar, R. Carmieli, R. D. Teo, A.
 Migliore, D. Beratan, H. B. Gray, I. Pecht, D. H. Waldeck, J. Fransson, R. Naaman
-“Temperature Dependence of Charge and Spin Transfer via Azurin”J. Phys. Chem.
-C 2021, 125, 18, 9875–9883
-- **Suryakant Mishra***, D.K. Bhowmick, “Asymmetric magnetoelectrochemistry: An ef-
-ficient tool to grow enantiopure self-assembled monolayer ” Magnetochemistry 2020,
-6(3), 37 *corresponding
+_“Temperature Dependence of Charge and Spin Transfer via Azurin”_ _**J. Phys. Chem.
+C 2021, 125, 18, 9875–9883**_
+- **Suryakant Mishra***, D.K. Bhowmick, _“Asymmetric magnetoelectrochemistry: An ef-
+ficient tool to grow enantiopure self-assembled monolayer”_ _**Magnetochemistry 2020,
+6(3), 37**_ *corresponding
 -  S. Jain, B. Sharma, N. Thakur, **Suryakant Mishra**, and T. K. Sarma* _“Efficient
 Multienzyme Mimetic Activity of Copper Pyrovanadate Nanoribbons Fabricated through
 Polyol Based Hydrothermal Synthesis for Biosensing Applications”_ _**ACS Appl. Nano Materials, 2020, 3, 8, 7917–7929**_
@@ -69,41 +69,41 @@ Physics, 238, 2019, 121943**_ *corresponding
 - **Suryakant Mishra***, R. Kumar*. _“Graphene Nanoflakes: Foundation for Improving
 Solid State Electrochemistry Based Electrochromic Devices”_ _**Solar Energy Materials
 and Solar Cells, 200, 2019, 110041**_ *corresponding
-- A Choudhary, D.K. Pathak, Suryakant Mishra, R. Kumar.“Polythiophene -viologen
-bilayer for electro-trichromic device”
-Solar Energy Materials and Solar Cells, 2018, 188, 249-254.
-- **Suryakant Mishra**, P. Yogi, S. Saxena, S. Roy, P. R. Sagdeo, R. Kumar. “Mesoporous
-Nickel Oxide (NiO) Nanopetals for Ultrasensitive Glucose Sensing”
-Nanoscale Research Letters, 2018, pp 13-16
-- S. Jain, Suryakant Mishra, T. Sarma. “Zn2+ Induced Self-Assembled Growth of
+- A Choudhary, D.K. Pathak, **Suryakant Mishra**, R. Kumar._“Polythiophene -viologen
+bilayer for electro-trichromic device”_
+_**Solar Energy Materials and Solar Cells, 2018, 188, 249-254.**_
+- **Suryakant Mishra**, P. Yogi, S. Saxena, S. Roy, P. R. Sagdeo, R. Kumar. _“Mesoporous
+Nickel Oxide (NiO) Nanopetals for Ultrasensitive Glucose Sensing”_
+_**Nanoscale Research Letters, 2018, pp 13-16**_
+- S. Jain, **Suryakant Mishra**, T. Sarma. _“Zn2+ Induced Self-Assembled Growth of
 Octapodal CuxO-ZnO Microcrystals: Multifunctional Applications in Reductive Degra-
-dation of Organic Pollutants and Non-Enzymatic Electrochemical Sensing of Glucose”
-ACS Sustainable Chemistry & Engineering, 2018, 6 (8), pp 9771-9783.
-- **Suryakant Mishra**, S. Lambora, P. Yogi, P. R. Sagdeo, R. Kumar. “Organic Nanos-
-tructures on Inorganic ones: An Efficient Electrochromic Display by Design”
-ACS Appl. Nano Materials, 2018, 1(7), pp 3715-3723
-- P. Yogi, M. Tanvar, S. Saxena, Suryakant Mishra, D.K. Pathak, A. Choudhary, P.
-R. Sagdeo, R. Kumar. “Quantifying the short-range order in amorphous silicon by
-Raman scattering ” Analytical Chemistry, 2018, 90 (13), pp 8123-8129.
-- **Suryakant Mishra**, P. Yogi, P. R. Sagdeo, R. Kumar. “TiO2/Co3O4 Core-Shell
-Nanorods: Bi-functional Role in Better Energy Harvestation & Electrochromism”
-ACS Appl. Energy Materials, 2018, 1(2), pp 790-798
+dation of Organic Pollutants and Non-Enzymatic Electrochemical Sensing of Glucose”_
+_**ACS Sustainable Chemistry & Engineering, 2018, 6 (8), pp 9771-9783.**_
+- **Suryakant Mishra**, S. Lambora, P. Yogi, P. R. Sagdeo, R. Kumar. _“Organic Nanos-
+tructures on Inorganic ones: An Efficient Electrochromic Display by Design”_
+_**ACS Appl. Nano Materials, 2018, 1(7), pp 3715-3723**_
+- P. Yogi, M. Tanvar, S. Saxena, **Suryakant Mishr**a, D.K. Pathak, A. Choudhary, P.
+R. Sagdeo, R. Kumar. _“Quantifying the short-range order in amorphous silicon by
+Raman scattering”_ _**Analytical Chemistry, 2018, 90 (13), pp 8123-8129**_.
+- **Suryakant Mishra**, P. Yogi, P. R. Sagdeo, R. Kumar. _“TiO2/Co3O4 Core-Shell
+Nanorods: Bi-functional Role in Better Energy Harvestation & Electrochromism”_
+_**ACS Appl. Energy Materials, 2018, 1(2), pp 790-798**_
 - **Suryakant Mishra**, H. Pandey, P. Yogi, S. Saxena, S. Roy, P. R. Sagdeo, R. Kumar.
-“Interfacial redox centers as origin of color switching in organic electrochromic device”
-Optical Materials, 2017, 66, pp 65-71
-- P. Yogi, Suryakant Mishra, S. Saxena, P. R. Sagdeo, V. Kumar, R. Kumar. “Spectral
-Anomaly in Raman Scattering from p-Type Silicon Nanowires”
-J. Phys. Chem. C, 2017, 121 (9), pp 5372-5378
-- **Suryakant Mishra**,P. Yogi, S. Saxena, J. Jayabalan, P. R. Sagdeo, R. Kumar. “Sig-
-nificant field emission enhancement in ultrathin nano-thorn covered NiO nano-petals”
-Journal of Materials Chemistry C, 2017,5, pp 9611-9618
-- S. Saxena, P. Yogi, Suryakant Mishra, H.M. Rai, P. R. Sagdeo, R. Kumar. “Ampli-
+_“Interfacial redox centers as origin of color switching in organic electrochromic device”_
+_**Optical Materials, 2017, 66, pp 65-71**_
+- P. Yogi, **Suryakant Mishra**, S. Saxena, P. R. Sagdeo, V. Kumar, R. Kumar._“Spectral
+Anomaly in Raman Scattering from p-Type Silicon Nanowires”_
+_**J. Phys. Chem. C, 2017, 121 (9), pp 5372-5378**_
+- **Suryakant Mishra**,P. Yogi, S. Saxena, J. Jayabalan, P. R. Sagdeo, R. Kumar. _“Sig-
+nificant field emission enhancement in ultrathin nano-thorn covered NiO nano-petals”_
+_**Journal of Materials Chemistry C, 2017,5, pp 9611-9618**_
+- S. Saxena, P. Yogi, **Suryakant Mishra**, H.M. Rai, P. R. Sagdeo, R. Kumar. _“Ampli-
 fication or Cancellation of Fano Resonance and Quantum Confinement Induced Asym-
-metries in Raman Line-Shapes” Phys. Chem. Chem. Phys., 2017, 19, 31788 -
-31795
-- **Suryakant Mishra**, P. Yogi, S. Saxena, S. Roy, P. R. Sagdeo, R. Kumar. “Fast
-electrochromic display: tetrathiofulvalen and graphene nanoflakes as facilitating agent”
-Journal of Materials Chemistry C, 2017,5, pp 9504-9512
-- **Suryakant Mishra***, P. Yogi*, S. Saxena, V. Kumar, R. Kumar. “Fano Scattering:
-Manifestation of Acoustic Phonons at the Nanoscale”
-J. Phys. Chem. Lett. 2016, 7 (24), pp 5291-5296 (*equal contribution)
+metries in Raman Line-Shapes”_ _**Phys. Chem. Chem. Phys., 2017, 19, 31788 -
+31795**_
+- **Suryakant Mishra**, P. Yogi, S. Saxena, S. Roy, P. R. Sagdeo, R. Kumar. _“Fast
+electrochromic display: tetrathiofulvalen and graphene nanoflakes as facilitating agent”_
+_**Journal of Materials Chemistry C, 2017,5, pp 9504-9512**_
+- **Suryakant Mishra***, P. Yogi*, S. Saxena, V. Kumar, R. Kumar. _“Fano Scattering:
+Manifestation of Acoustic Phonons at the Nanoscale”_
+_**J. Phys. Chem. Lett. 2016, 7 (24), pp 5291-5296**_ (*equal contribution)
