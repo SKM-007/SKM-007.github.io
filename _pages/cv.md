@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+<br/><img src='/About.png' class='center'>
 
 **Work experience**
 - - - -
@@ -63,7 +63,9 @@ redirect_from:
 
 **Publications**
 - - - - 
-You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=hwZgCGYAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
+
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=hwZgCGYAAAAJ&hl=en).
+
   
 **Talks**
 - - - -
