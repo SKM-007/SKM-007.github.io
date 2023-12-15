@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<br/><img src='/frontpage.png' class='center'>
 
   I am Suryakant Mishra, Director's Research Fellow in Center for Integrated Nanotechnologies @ Los Alamos National Laboratroy (LANL), where my work primarily focuses on measuring qunatum properties of diffrent material. My research also focused on Single Photon Emission (SPE) using quantum deffect from qunatum confined material for qunatum communication and computing applications.
   
