@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hwZgCGYAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Suryakant-Mishra-3"
+  researchgate     : #"https://www.researchgate.net/profile/Suryakant-Mishra-3"
   uri              :
   bitbucket        :
   codepen          :
