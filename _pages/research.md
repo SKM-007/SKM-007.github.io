@@ -1,11 +1,10 @@
 ---
-permalink: /
-title: ""
-excerpt: "Research"
+layout: archive
+title: " "
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
 
 <br/><img src='/frontpage.png' class='center'>
