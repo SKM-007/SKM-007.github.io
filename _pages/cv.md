@@ -14,6 +14,7 @@ redirect_from:
 **Work experience**
 - - - -
 * April 2022-present
+  ====
   * Research Scientist at Los Alamos National Lab, Los Alamos, NM, USA
       * Quantum Photonics, SPE and Q-defect in Thin films.
       * Cleanroom nanophotonics chip intigration.
@@ -21,12 +22,14 @@ redirect_from:
       * Big data analysics using machine learning models.
 
 * Nov 2020-April 2022
+  ====
   * Research Associate at Argonne National Laboratory, Chicago, IL, USA
     * Thin film based Qubit fabrication through atomic size chemical vapour deposition.
     * Measuring Spin of bits using cryostat with ultra high magentic field.
     * Single Photon Emitters
 
 * Nov 2018-Nov 2020
+  ====
   * Postdoc Fellow at Weizmann Institute of Science, Israel
     * Quantum device fabrication.
     * Single Molecule Charge Transfer.
