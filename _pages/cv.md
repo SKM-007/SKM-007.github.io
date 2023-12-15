@@ -9,26 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BTech in Electrical and Electronics, RGTU University, 2012
-* MTECH in Optical Fiber, National Insitute of Techonolgy, 2014
-* Ph.D in Engineering Physics, Indian Institute of Techonology, 2018 
 
-Work experience
-======
-* 2018-2020: Postdoctoral Fellow 
-  * Weizmann Institute of Science, Israel 
-  * Clean room chip desiging for the qunatume molecualr measurement 
-  * Crygenic and UHV measurements
 
-* 2020-2022: Research Associate
-  * Argonne National Laboratry 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Work experience**
+- - - -
+* April 2022-present
+  * Research Scientist at Los Alamos National Lab, Los Alamos, NM, USA
+      * Quantum Photonics, SPE and Q-defect in Thin films.
+      * Cleanroom nanophotonics chip intigration.
+      * Cryogenics, Ultra high vaccum (UHV).
+      * Big data analysics using machine learning models.
+
+* Nov 2020-April 2022
+  * Research Associate at Argonne National Laboratory, Chicago, IL, USA
+    * Thin film based Qubit fabrication through atomic size chemical vapour deposition.
+    * Measuring Spin of bits using cryostat with ultra high magentic field.
+    * Single Photon Emitters
+
+* Nov 2018-Nov 2020
+  * Postdoc Fellow at Weizmann Institute of Science, Israel
+    * Quantum device fabrication.
+    * Single Molecule Charge Transfer.
+    * SQUID
+
+
+
+**Education**
+- - - -
+* Jan 2015-Dec 2018
+  * PhD Degree in Engineering Physics
+  * Indian Institute of Technology (IIT), India
+    * Device Physics
+    * Nanomaterial based electrochemical devices
+    * Energy strorage sensor, electrochromic display fabrication
+* Jun 2012-July 2014
+  * Engineering in Electrical & electronics
+  * National Institute of Technology (NIT), India
+      * Optical fibers
+      * Electronics Simulation
+
+
   
-Skills
-======
+**Skills**
+- - - -
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
