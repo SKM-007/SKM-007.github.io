@@ -61,9 +61,7 @@ redirect_from:
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=hwZgCGYAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
   
 Talks
 ======
