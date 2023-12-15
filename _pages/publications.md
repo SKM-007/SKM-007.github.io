@@ -7,7 +7,7 @@ author_profile: true
 
 Updated list on [Google Scholar](https://scholar.google.com/citations?user=hwZgCGYAAAAJ&hl=en).
 
-**publications**
+**Publications**
 ----
 - Suryakant Mishra, S. Pirbadian, A. K. Mondal, R. Naaman, M. Y. El-Naggar “Spin-
 dependent electron transport through bacterial cell surface multiheme electron conduits”
