@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
+**Publications**
+----
 - Suryakant Mishra, S. Pirbadian, A. K. Mondal, R. Naaman, M. Y. El-Naggar “Spin-
 dependent electron transport through bacterial cell surface multiheme electron conduits”
 J. Am. Chem. Soc. 2019, 141, 49, 19198-19202
