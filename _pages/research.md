@@ -25,7 +25,7 @@ Coming Soon
 <div style="text-align:center">
 
   <br/><img src='/pics/Picture1.png' alt='Alt Text' width='50%'>
-  <br/><img src='/pics/Picture2.png' alt='Alt Text' width='30%'>
+  <br/><img src='/pics/Picture3.png' alt='Alt Text' width='30%'>
 </div>
 
 <div style="display: flex;">
