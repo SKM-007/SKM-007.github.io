@@ -24,8 +24,8 @@ Coming Soon
 ----
 
 <div style="display: flex;">
-    <img src='/pics/Picture1.png' alt='Image 1' style='width:50%;'>
-    <img src='/pics/Picture3.png' alt='Image 2' style='width:50%;'>
+    <img src='/pics/Picture3.png' alt='Image 1' style='width:60%;'>
+    <img src='/pics/Picture2.png' alt='Image 2' style='width:40%;'>
 </div>
 
 
@@ -34,6 +34,6 @@ Coming Soon
 ----
 <div style="display: flex;">
     <img src='/pics/DEC1.png' alt='Image 1' style='width:50%;'>
-    <img src='/pics/hiresol2.png' alt='Image 2' style='width:50%;'>
+    <img src='/pics/hiresol2.png' alt='Image 2' style='width:20%;'>
 </div>
 
