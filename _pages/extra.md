@@ -12,7 +12,7 @@ author_profile: true
 Cover Page Articles
 ----
 - **Suryakant Mishra**, A. Kumar, M. Venkatesan, L. Pigani, L. Pasquali, C. Fontanesi
-_“Supramolecular chiral induction in poly-aniline”_ [_**Small Methods 2020, 4, 10, 2070038**_](https://onlinelibrary.wiley.com/toc/23669608/2020/4/10)
+_“Supramolecular chiral induction in poly-aniline”_ [_**Small Methods 2020, 4, 10, 2070038**_](https://onlinelibrary.wiley.com/cms/asset/f58ef8f0-e0be-41c4-8bb1-f28344413d55/smtd202070038-gra-0001-m.jpg)
 - B.P. Bloom, Y. Lu, D.H. Waldeck; T. Metzger, S. Yochelis, Y. Paltiel, C. Fontanesi,
 **Suryakant Mishra**, F. Tassinari, Ron Naaman _“Asymmetric Reactions using
 Spin Polarized Electrons”_  [_**Phys. Chem. Chem. Phys., 2020, 22, 21570- 21582**_](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp90222e#!divAbstract)
