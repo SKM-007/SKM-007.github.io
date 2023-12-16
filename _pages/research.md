@@ -22,4 +22,4 @@ Coming Soon
 
 **Electrochemical Devices**
 ----
-Coming Soon
+<br/><img src='/pics/DEC1.png' class='center' width='50%'>
