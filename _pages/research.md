@@ -9,7 +9,12 @@ author_profile: true
 
 **Quantum Photonics**
 ----
-Coming Soon
+<div style="display: flex;">
+    <img src='/pics/QD1Cv1.png' alt='Image 1' style='width:60%;'>
+    <img src='/pics/PPL.png' alt='Image 2' style='width:50%;'>
+    <img src='/pics/slide_electron3.png' alt='Image 3' style='width:50%;'>
+</div>
+
 
 **Cleanroom Chip Integration**
 ----
