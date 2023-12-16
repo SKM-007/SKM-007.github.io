@@ -37,3 +37,15 @@ Coming Soon
     <img src='/pics/hiresol2.png' alt='Image 2' style='width:20%;'>
 </div>
 
+**Nanomaterials**
+----
+<div style="display: flex;">
+    <img src='/pics/c1.png' alt='Image 1' style='width:50%;'>
+    <img src='/pics/c2.png' alt='Image 2' style='width:20%;'>
+    <img src='/pics/c3.png' alt='Image 2' style='width:20%;'>
+</div>
+<div style="display: flex;">
+    <img src='/pics/c4.png' alt='Image 1' style='width:50%;'>
+    <img src='/pics/c5.png' alt='Image 2' style='width:20%;'>
+    <img src='/pics/c6.png' alt='Image 2' style='width:20%;'>
+</div>
