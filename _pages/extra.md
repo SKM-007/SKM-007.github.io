@@ -15,7 +15,7 @@ Cover Page Articles
 _“Supramolecular chiral induction in poly-aniline”_ [_**Small Methods 2020, 4, 10, 2070038**_](https://onlinelibrary.wiley.com/cms/asset/f58ef8f0-e0be-41c4-8bb1-f28344413d55/smtd202070038-gra-0001-m.jpg)
 - B.P. Bloom, Y. Lu, D.H. Waldeck; T. Metzger, S. Yochelis, Y. Paltiel, C. Fontanesi,
 **Suryakant Mishra**, F. Tassinari, Ron Naaman _“Asymmetric Reactions using
-Spin Polarized Electrons”_  [_**Phys. Chem. Chem. Phys., 2020, 22, 21570- 21582**_](https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp90222e#!divAbstract)
+Spin Polarized Electrons”_  [_**Phys. Chem. Chem. Phys., 2020, 22, 21570- 21582**_](https://pubs.rsc.org/en/content/articlepdf/2020/cp/d0cp90222e)
 - **Suryakant Mishra***, L. Pasquali, C. Fontanesi _“Spin control by using
 Atomic Induced Chiral Nickel”_ [_**Appl. Phys. Lett. 118, 224001 (2021)**_](https://aipp.silverchair-cdn.com/aipp/content_public/journal/apl/issue/118/22/2/cover.jpeg?Expires=1705706841&Signature=Q04eKf46w5bdH6SP5Dl0TMYxS-dsYkNX-xFjSELzXzAqHQrM9Mo0gMiCoBU8ryu0ocwlJmFLncUeFC49Il7cPm1BL5XkiudDhwVCCXDe89m-04CwZPeyI9~OffEJo7bXJpzwyi7~MZGeID8gDpKMs615h1cDdwzl-1cpOGwriwvzHSTqNPU3VwdlSaKoVQNRFNuGyCayxIkBqfIMW~NRFAa~NuWIhKf8HmAcaf5-VIhclVEhxY1cguuiOoasYkNlONErke3k03JokflM4glKwroFSas4RfRU5-7k6Vy5dDvFkW4biKXaopLO9bAeWqW6SBYoam62H0wQA~-WTGQ0YQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 - **Suryakant Mishra**, S. Pirbadian, A. K. Mondal, R. Naaman, M. Y. El-Naggar
