@@ -11,8 +11,8 @@ author_profile: true
 ----
 <div style="display: flex;">
     <img src='/pics/QD1Cv1.png' alt='Image 1' style='width:60%;'>
-    <img src='/pics/PPL.png' alt='Image 2' style='width:50%;'>
-    <img src='/pics/slide_electron3.png' alt='Image 3' style='width:50%;'>
+    <img src='/pics/PPL.png' alt='Image 2' style='width:40%;'>
+   
 </div>
 
 
@@ -32,4 +32,8 @@ Coming Soon
 
 **Electrochemical Devices**
 ----
-<br/><img src='/pics/DEC1.png' class='center' width='50%'>
+<div style="display: flex;">
+    <img src='/pics/DEC1.png' alt='Image 1' style='width:50%;'>
+    <img src='/pics/Picture3.png' alt='Image 2' style='width:50%;'>
+</div>
+
