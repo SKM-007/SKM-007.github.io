@@ -10,4 +10,4 @@ author_profile: true
 <br/><img src='/About.png' class='center'>
 
 
-**Cooming Soon**
+**Coming Soon**
