@@ -17,7 +17,17 @@ Coming Soon
 
 **Moleculer Electronics**
 ----
-<br/><img src='/pics/CISS.png' class='center' width='50%'>
+<div style="text-align:center">
+
+  <br/><img src='/pics/Picture1.png' alt='Alt Text' width='50%'>
+  <br/><img src='/pics/Picture2.png' alt='Alt Text' width='30%'>
+</div>
+
+<div style="display: flex;">
+    <img src='/pics/Picture1.png' alt='Image 1' style='width:50%;'>
+    <img src='/pics/Picture2.png' alt='Image 2' style='width:50%;'>
+</div>
+
 
 
 **Electrochemical Devices**
