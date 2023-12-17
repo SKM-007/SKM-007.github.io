@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-<br/><img src='/About.png' class='center'>
+<br/><img src='/pics/cr.png' class='center'>
 
 
 **Cleanroom Device Fabrication Experience:**
