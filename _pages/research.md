@@ -22,6 +22,11 @@ Coming Soon
 
 **Moleculer Electronics**
 ----
+- Chiral Induced Spin Selective (CISS) effect
+- Single Molecule Charge Transfer
+- Spintronics Devices
+- Qunatum Molecular measurment using SQUID
+
 
 <div style="display: flex;">
     <img src='/pics/Picture3.png' alt='Image 1' style='width:60%;'>
@@ -32,6 +37,12 @@ Coming Soon
 
 **Electrochemical Devices**
 ----
+- Electrochemical Energystorage Application
+- Supercapacitor Application
+- Electrochemical Sensor
+- Battery Electrode
+- Electrochromic Displays
+  
 <div style="display: flex;">
     <img src='/pics/DEC1.png' alt='Image 1' style='width:50%;'>
     <img src='/pics/hiresol2.png' alt='Image 2' style='width:20%;'>
@@ -39,6 +50,11 @@ Coming Soon
 
 **Nanomaterials**
 ----
+- NiO Nanopetels
+- Co2O3 Nannoflowere
+- Polymer
+- Core/Shell Nanostructure
+  
 <div style="display: flex;">
     <img src='/pics/c1.png' alt='Image 1' style='width:30%;'>
     <img src='/pics/c2.png' alt='Image 2' style='width:30%;'>
