@@ -30,7 +30,7 @@ _“Spin Selective Electron Transportation through MtrF and OmcA Protein”_
 
 - **Suryakant Mishra**, S. Pirbadian, A. K. Mondal, R. Naaman, M. Y. El-Naggar
 _“Spin Selective Electron Transportation through MtrF and OmcA Protein”_
-_**J. Am. Chem. Soc. 2019, 141, 49, 19198-19202**_
+[_**J. Am. Chem. Soc. 2019, 141, 49, 19198-19202**_](https://pubs.acs.org/doi/10.1021/jacs.9b09262)
    - [Physics ORG](https://phys.org/news/2020-07-rock-breathing-bacteria-electron-doctors.html)
    - [Science Alert](https://www.sciencealert.com/these-bacteria-breathe-rock-and-we-might-finally-understand-how-that-s-possible)
     - [Spektrum](https://www.spektrum.de/news/bakterien-steuern-elektronenspins/1711584)
@@ -40,10 +40,10 @@ _**J. Am. Chem. Soc. 2019, 141, 49, 19198-19202**_
   - [RT Network](https://actualidad.rt.com/actualidad/345521-respira-bacteria-electrodos-roca)
 - **Suryakant Mishra**,* T. S. Metzger,* B. P. Bloom,* C. Fontanesi, D. H. Waldeck,
 Y. Paltiel, Ron Naaman “_The electron spin as a chiral reagent”_
-_**Angew. Chem. Int. Ed. 2020, 59, 1653-1658**_ 
+[_**Angew. Chem. Int. Ed. 2020, 59, 1653-1658**_](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201911400) 
   - [Science Magazine](https://blogs.sciencemag.org/pipeline/archives/2019/10/24/chiral-reactions-with-chiral-electrons)
 - **Suryakant Mishra**, P. Yogi, S. Saxena, S. Roy, P. R. Sagdeo, R. Kumar. _“Meso-porous Nickel Oxide (NiO) Nanopetals for Ultrasensitive Glucose Sensing”_
-_**Nanoscale Research Letters, 2018, pp 13-16**_
+[_**Nanoscale Research Letters, 2018, pp 13-16**_](https://link.springer.com/article/10.1186/s11671-018-2435-3)
   - [News](https://researchmatters.in/news/iit-indore-develop-novel-glucose-sensor-made-nickel-oxide-nanopetals)
   
 Featured Articles
