@@ -46,8 +46,9 @@ author_profile: true
 **Atomic Layer Deposition:**
 
 - Proficient in Atomic Layer Deposition techniques for various oxide depositions, specifically for GaAs/AlGaAs and 2DEG spintronics devices.
+- Buffer layer for 4-probe magnetoresistance devices.
 
 **Atomic Force Microscopy (AFM):**
 
-- Utilized AFM for nanoscopic conducting measurements, particularly in the presence of external magnetic fields.
+- Utilized AFM for nanoscopic conduction measurements, particularly in the presence of external magnetic fields.
 - Expertise in investigating magnetoresistance at the nanoscopic level.
