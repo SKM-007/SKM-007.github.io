@@ -22,7 +22,7 @@ A significant portion of my research is also dedicated to dealing with big data 
   - Argonne National Laboratroy, USA
   - University of Chicago, USA
   - Weizmann Institute of Science, Israel
-  - Indian Institute of Techonology, Indian 
+  - Indian Institute of Techonology, India
 
 **Achievements**
 ----
