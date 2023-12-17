@@ -22,9 +22,7 @@ author_profile: true
 </div>
 
 
-**Cleanroom Chip Integration**
-----
-Coming Soon
+
 
 **Moleculer Electronics**
 ----
