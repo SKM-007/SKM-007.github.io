@@ -14,6 +14,7 @@ author_profile: true
 - Nnaophotonics
 - Time and Polarization Resolve PL
 - Light Matter Intercation
+
    
 <div style="display: flex;">
     <img src='/pics/QD1Cv1.png' alt='Image 1' style='width:60%;'>
@@ -22,7 +23,9 @@ author_profile: true
 </div>
 
 
-
+-  Developing novel methods for manipulating light and matter at the nanoscale, such as plasmonic nanoantennas, nanoscale optical tweezers, and quantum dot-based single-photon sources1
+- Discovering new phenomena and applications of spin-orbit interactions in nanophotonic systems, such as spin Hall effect of light, spin-controlled directional coupling, and spin-optomechanical coupling
+- Exploring the potential of quantum information processing and communication using photonic and spintronic platforms, such as quantum cryptography, quantum metrology, and quantum repeaters
 
 **Moleculer Electronics**
 ----
@@ -55,7 +58,7 @@ author_profile: true
 **Nanomaterials**
 ----
 - NiO Nanopetels
-- Co2O3 Nannoflowere
+- Co2O3 Nanoflower
 - Polymer
 - Core/Shell Nanostructure
   
