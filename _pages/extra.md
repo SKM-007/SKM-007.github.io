@@ -42,7 +42,7 @@ _“Spin Selective Electron Transportation through MtrF and OmcA Protein”_
 Y. Paltiel, Ron Naaman “_The electron spin as a chiral reagent”_
 [_**Angew. Chem. Int. Ed. 2020, 59, 1653-1658**_](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201911400) 
   - [Science Magazine](https://blogs.sciencemag.org/pipeline/archives/2019/10/24/chiral-reactions-with-chiral-electrons)
-- **Suryakant Mishra**, P. Yogi, S. Saxena, S. Roy, P. R. Sagdeo, R. Kumar. _“Meso-porous Nickel Oxide (NiO) Nanopetals for Ultrasensitive Glucose Sensing”_
+- **Suryakant Mishra**, P. Yogi, P. R. Sagdeo, R. Kumar. _“Meso-porous Nickel Oxide (NiO) Nanopetals for Ultrasensitive Glucose Sensing”_
 [_**Nanoscale Research Letters, 2018, pp 13-16**_](https://link.springer.com/article/10.1186/s11671-018-2435-3)
   - [News](https://researchmatters.in/news/iit-indore-develop-novel-glucose-sensor-made-nickel-oxide-nanopetals)
   
