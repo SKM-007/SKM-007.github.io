@@ -23,13 +23,13 @@ author_profile: true
 </div>
 
 <div style="text-align: justify">
-   1. Developing novel methods for manipulating light and matter at the nanoscale, such as plasmonic nanoantennas, nanoscale optical tweezers, and quantum dot-based single-photon sources.
+   - Developing novel methods for manipulating light and matter at the nanoscale, such as plasmonic nanoantennas, nanoscale optical tweezers, and quantum dot-based single-photon sources.
 </div>
 <div style="text-align: justify">
-   2. Discovering new phenomena and applications of spin-orbit interactions in nanophotonic systems, such as spin Hall effect of light, spin-controlled directional coupling, and spin-optomechanical coupling
+   - Discovering new phenomena and applications of spin-orbit interactions in nanophotonic systems, such as spin Hall effect of light, spin-controlled directional coupling, and spin-optomechanical coupling
 </div>
 <div style="text-align: justify">
-   3. Exploring the potential of quantum information processing and communication using photonic and spintronic platforms, such as quantum cryptography, quantum metrology, and quantum repeaters
+   - Exploring the potential of quantum information processing and communication using photonic and spintronic platforms, such as quantum cryptography, quantum metrology, and quantum repeaters
 </div>
 
 **Moleculer Electronics**
