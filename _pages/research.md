@@ -11,7 +11,7 @@ author_profile: true
 ----
 - Single Photon Quantum Emitters
 - Ultrafast laser
-- Nnaophotonics
+- Nanophotonics
 - Time and Polarization Resolve PL
 - Light Matter Intercation
 
