@@ -4,7 +4,9 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+<div style="text-align:center">
 <br/><img src='/pics/Jm.png' class='center' style='width:50%;'>
+</div>
 
 Updated list on [Google Scholar](https://scholar.google.com/citations?user=hwZgCGYAAAAJ&hl=en).
 
