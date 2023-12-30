@@ -1,9 +1,10 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
+layout: archive
+title: " "
+permalink: /datascience/
 author_profile: true
 ---
+
 
 <br/><img src='/pics/Data.png' class='center' style='width:60%;'>
 
