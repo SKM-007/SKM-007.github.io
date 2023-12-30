@@ -24,5 +24,7 @@ main:
   - title: "Extra"
     url: /extra/
     
+  - title: "Data Science Skills"
+    url: /data/
   #- title: "Guide"
     #url: /markdown/
