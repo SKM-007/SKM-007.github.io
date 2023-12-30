@@ -5,5 +5,5 @@ excerpt: "About me"
 author_profile: true
 ---
 
-<br/><img src='/frontpage.png' class='center'>
+<br/><img src='/pics/Data.png' class='center'>
 
