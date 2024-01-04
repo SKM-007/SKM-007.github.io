@@ -11,6 +11,7 @@ author_profile: true
 
 Certificates
 ----
+- [Microsoft Certified _“Harnessing the Power of Data with Power BI”_](https://www.coursera.org/account/accomplishments/certificate/5RYBXWEG9XBA)
 - [Google Certified _“Data Analysis with R Programming”_](https://www.coursera.org/account/accomplishments/verify/AX6ATKY85P28)
 - [Meta Certified _“Databases (SQL)”_](https://www.coursera.org/account/accomplishments/verify/VLL87X5Q8X5Q)
 - [University of Michigan Certified _“Data Science in Python”_](https://www.coursera.org/account/accomplishments/verify/77AR7L2JAJBH)
