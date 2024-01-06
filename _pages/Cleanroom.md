@@ -28,8 +28,8 @@ author_profile: true
 - Involved in chip designing using a comprehensive set of instruments.
 
 
-<br/><img src='/pics/cr22.png' class='center'>
-<br/><img src='/pics/cr3.png' class='center'>
+<img src='/pics/cr22.png' class='center' style='width:60%;'>
+<img src='/pics/cr3.png' class='center' style='width:60%;'>
 
 
 
