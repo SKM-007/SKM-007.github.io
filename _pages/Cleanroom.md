@@ -27,6 +27,12 @@ author_profile: true
 - Expertise in the fabrication of GaN/AlGaN 2D electron gas hall devices.
 - Involved in chip designing using a comprehensive set of instruments.
 
+
+<br/><img src='/pics/cr22.png' class='center'>
+<br/><img src='/pics/cr3.png' class='center'>
+
+
+
 **Instrument Proficiency:**
 
 - Adept in the cleanroom bench photoresist coating process.
