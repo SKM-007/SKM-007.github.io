@@ -5,14 +5,16 @@ main:
   #- title: "Talks"
     #url: /talks/    
 
-  - title: "Research"
-    url: /research/    
-    
-  # - title: "About Me"
-  #   url: /portfolio/
   
   - title: "About Me"
     url: /cv/
+
+  
+  
+  - title: "Research"
+    url: /research/    
+    
+
 
     
   - title: "Publications"
